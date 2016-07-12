@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserMvp</string>
+    <string name="show_data">SHOW DATA</string>
+    <string name="save_data">SAVE DATA</string>
+    <string name="userid">userId</string>
+    <string name="username">userName</string>
+    <string name="usergender">userGender</string>
+    <string name="userage">userAge</string>
+</resources>
